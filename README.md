@@ -2,6 +2,8 @@
 
 ```
 안녕하세요 김민성이라고 합니다.
+저는 문제가 생겼을 때 해결을 하려고 할 때 내가 직접 문제를 찾고 해결해 가는 과정이 힘들다고 느끼지 않고 결국 직접 해결할 때 성취감을 느끼고 그타입의 문제를 내껄로 만드는 성향을 가지고 있습니다.
+내가 모르는 부분은 배우고  모르는 부분을 알려주면서 다시 한 번 되새기면서 뿌듯함을 가집니다.
 ```
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=alstjd1018&show_icons=true&theme=dark)](https://github.com/alstjd1018)
