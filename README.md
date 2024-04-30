@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Git%20Hub&fontSize=50)
 
 ```
-안녕하세요
+안녕하세요 김민성이라고 합니다.
 ```
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=alstjd1018&show_icons=true&theme=dark)](https://github.com/alstjd1018)
